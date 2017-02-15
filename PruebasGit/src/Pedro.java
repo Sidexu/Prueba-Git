@@ -8,7 +8,7 @@ public class Pedro {
 		System.out.println("Diego");
 		System.out.println("pepe");
 		System.out.println("Diego");
-
-		
+		if(1<2)
+			System.out.println("Diego");	
 	}
 }
