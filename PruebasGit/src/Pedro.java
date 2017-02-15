@@ -8,6 +8,7 @@ public class Pedro {
 		System.out.println("Diego");
 		System.out.println("pepe");
 		System.out.println("Diego");
+
 		
 	}
 }
