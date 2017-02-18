@@ -6,10 +6,7 @@ public class Pedro {
 		System.out.println("Diego");
 		if(3<4)
 			System.out.println("Diego");
-		System.out.println("pepe");
-		System.out.println("Diego");
-		System.out.println("pepe");
-		System.out.println("Diego");
-			System.out.println("Jorge");	
+		if(1<2)
+			System.out.println("Diego");
 	}
 }
